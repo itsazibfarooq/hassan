@@ -227,7 +227,15 @@ collections:
   experience:
     output: true
     permalink: /:collection/:path/
-
+  trainings:
+    output: true
+    permalink: /:collection/:path/
+  conferences:
+    output: true
+    permalink: /:collection/:path/
+  volunteering:
+    output: true
+    permalink: /:collection/:path/
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
