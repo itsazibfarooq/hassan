@@ -100,6 +100,19 @@
   white-space: nowrap;
 }
 
+.exp-bullets {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.exp-bullets li {
+  font-size: 0.8rem;
+  margin-bottom: 0.5em;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 /*
    List view
    ========================================================================== */
