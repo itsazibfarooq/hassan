@@ -13,8 +13,8 @@ title: "About"
 title_separator: "-"
 name: &name "Syed Hassan Raza"
 description: &description "PhD Candidate Eduction Culture and Leadership"
-url: https://itsazibfarooq.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl: hassan # the subpath of your site, e.g. "/blog"
+url: https://itsazibfarooq.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl: /hassan # the subpath of your site, e.g. "/blog"
 repository: "https://github.com/itsazibfarooq/hassan/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
